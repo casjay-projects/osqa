@@ -1,0 +1,20 @@
+# gitignore created on 10/29/21 at 19:36
+# Disable reminder in prompt
+ignoredirmessage
+
+#!! ERROR: nodejs is undefined. Use list command to see defined gitignore types !!#
+
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+node_modules
+bower_components
+*.sublime*
+psd
+thumb
+sketch
+
+
